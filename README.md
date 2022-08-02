@@ -1,4 +1,4 @@
-# Yasser protfolio
+# Yasser portfolio
 
 # Data Analysis and Machine Learning projects
 
