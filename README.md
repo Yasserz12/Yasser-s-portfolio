@@ -1,6 +1,16 @@
 # Yasser portfolio
 
-# Data Analysis and Machine Learning projects
+# Data Analysis and Machine Learning 
+
+## [Hospital Analysis]
+This is a hospital data in NewYork, i made all the analysis using Excel and PowerBi, i was able to analyze the revenue for each department and each month" May and June" as well as finding out which district in NewYork had the most patients, and it's all shown in the presentation.
+
+![](/images/hospital.jpg)
+
+## [Medical Devices Sales Analysis](https://github.com/Yasserz12/Medical-devices-sales)
+This dataset is about medical devices sales analysis, i used Microsoft Excel and PowerBi in order to analyze and visualize the the analysis of this data. in this project i analysed the sales in each city and found the most sales device as well as the sales person who made the most sales, and it's all shown in the presentation.
+
+![](/images/Ba.jpg)
 
 ## [Sales Analysis Project](https://github.com/Yasserz12/Sales-Report)
 This is a dataset of a company with multiple branches across USA. the cleaning and the exploration process were done by Python and the final report is done by Power Bi The Sales report shows some indicators and insights which can help the company for better future decision making, the report shows which City that made revenue the most, which product was most sold and made most profit. and also at which hour customers are active buying the company products which can help the marketing team to to figure out the most suitable time to make ads for the products.
