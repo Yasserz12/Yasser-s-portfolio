@@ -2,7 +2,7 @@
 
 # Data Analysis and Machine Learning 
 
-## [Hospital Analysis]
+## [NY Hospital Analysis](https://github.com/Yasserz12/Hospital-Analysis)
 This is a hospital data in NewYork, i made all the analysis using Excel and PowerBi, i was able to analyze the revenue for each department and each month" May and June" as well as finding out which district in NewYork had the most patients, and it's all shown in the presentation.
 
 ![](/images/hospital.jpg)
@@ -28,7 +28,7 @@ This Data is about the cases and the vaccination of Covid 19 in the world and es
 ![](/images/cases_with_start_vaccination.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Mini Machine Learning Projects
+# Machine Learning Projects
 
 ## [Loan](https://github.com/Yasserz12/Loan-/blob/main/Loan.ipynb)
 
