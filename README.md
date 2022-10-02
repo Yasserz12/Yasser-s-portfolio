@@ -2,6 +2,18 @@
 
 # Data Analysis and Machine Learning 
 
+## [E-commerce case study](https://github.com/Yasserz12/E-Commerce-case-study)
+This is a Data for E-commerce company, The main goal for the ops team of this company is to serve all retailers in the best timing in order to ensure the best success rate possible
+
+The objective of this task is to:
+Analyze error rate ( difference between desired success rate (100%) and the actual success rate), main reasons behind it.
+
+Prioritize the problems to solve in order to have the biggest impact on the success rate, for example, if the error rate is 10% and 50% of the error rate comes from not showing up in 3 hours, so recommend working on service time.
+
+Provide recommendations to the ops team 
+
+![](/images/findings.png)
+
 ## [Food Delivery](https://github.com/Yasserz12/food-delivery)
 This is a food delivery dataset, for this analysis I used Microsoft Excel, Python and PowerBi, I did clean the data and picked the necessary columns that will help me with the analysis, I was able to get an overall view about the consumers, like their marital status, their ages.. etc, and also getting insights of the most meals that was bought by the consumers
 
