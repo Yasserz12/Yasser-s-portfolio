@@ -2,7 +2,7 @@
 
 # Data Analysis and Machine Learning 
 
-## [E-commerce case study](https://github.com/Yasserz12/E-Commerce-case-study)
+## [E-Commerce case study](https://github.com/Yasserz12/E-Commerce-case-study)
 This is a Data for E-commerce company, The main goal for the ops team of this company is to serve all retailers in the best timing in order to ensure the best success rate possible
 
 The objective of this task is to:
@@ -13,6 +13,12 @@ Prioritize the problems to solve in order to have the biggest impact on the succ
 Provide recommendations to the ops team 
 
 ![](/images/findings.png)
+
+## [E-Commerce Business Case](https://github.com/Yasserz12/E-Commerce-Business-Case) 
+This is a business case for an E-Commerce company, in this business case we are trying to figure out if the company can enter a new market "Algeria Market", and trying to see how would the company perform in this new market, depending on Mareket Attraciveness and other factors
+
+![](/images/Market.png)
+
 
 
 
