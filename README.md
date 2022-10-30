@@ -14,10 +14,10 @@ Provide recommendations to the ops team
 
 ![](/images/findings.png)
 
-## [E-Commerce Business Case](https://github.com/Yasserz12/E-Commerce-Business-Case) 
+## [E-Commerce Business Case](https://github.com/Yasserz12/E-Commerce-Business-Case)
 This is a business case for an E-Commerce company, in this business case we are trying to figure out if the company can enter a new market "Algeria Market", and trying to see how would the company perform in this new market, depending on Mareket Attraciveness and other factors
 
-![](/images/Market.png)
+![](/images/Market-.png)
 
 
 
